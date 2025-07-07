@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.head-text {
+background: linear-gradient(90deg, #FFF 0%, rgba(0, 131, 255, 0.76) 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+body{
+  background-color: #0A0523;
+}
